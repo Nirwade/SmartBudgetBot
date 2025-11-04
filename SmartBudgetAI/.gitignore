@@ -5,3 +5,5 @@ venv/
 smartbudget.db
 *.sqlite3
 .DS_Store
+SmartBudgetAI/smartbudget.db
+*.db
