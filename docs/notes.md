@@ -16,3 +16,7 @@ An AI powered personal budgeting bot that helps users track expenses, set limits
 - Database: Firebase or local JSON
 - Deployment: GitHub Codespaces → Render (backend) + Vercel (frontend)
 
+- Streamlit, the best way to show a "pop-up" notification without interrupting the user is using st.toast. It appears briefly in the corner (like a phone notification).
+
+You don't need complex backend changes for this. We can simply detect the "Loan settled" keyword in the UI and trigger the notification there.
+

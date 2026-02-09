@@ -7,3 +7,5 @@ smartbudget.db
 .DS_Store
 SmartBudgetAI/smartbudget.db
 *.db
+.pytest_cache/
+training_data.jsonl
